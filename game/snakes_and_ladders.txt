@@ -1,0 +1,6 @@
+Requirements:
+
+1. Snakes, Ladders and no of players are decided before the game.
+2. A rolled dice have random values.
+3. The game ends when player reaches 100.
+4. After the game ends the system declare the final value of each player and also the winner.
