@@ -1,0 +1,6 @@
+Requirements:
+
+1. Only registered users can be involved in expense matrix.
+2. Expense created should be of type EXACTLY, EQUALLY, PERCENTAGE
+3. Application can print total sum owed and inididual amounts owed to and by each users.
+4. The final amount should be rounded off two decimal places and should add to principal amount.
