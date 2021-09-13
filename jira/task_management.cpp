@@ -181,7 +181,7 @@ class User{
     }
     void printAllTasks(){
         for( Task t : taskList){
-            cout<< t.getId() << " ";
+            cout<<t.getId() << " ";
         }
         cout<<endl;
     };
