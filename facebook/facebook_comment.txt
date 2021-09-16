@@ -1,0 +1,6 @@
+Requirements
+
+1. Users should be able to comment to post.
+2. Users should be able to reply to comment.
+3. At most one level of nesting is allowed, the comment should appear below prev comment.
+4. Users able to delete or edit a comment, also nesting happens properly after this action.
